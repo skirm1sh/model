@@ -15,6 +15,7 @@ span {
 
 .zone2 {
     width: 300px;
+    box-shadow:3px #03a1fc;
 
 }
 h1 {
@@ -74,11 +75,12 @@ li a {
 }
 
 .bodyzone2 {
-    border: 0.1px solid black;
+    /* border: 0.1px solid black; */
     width: 1100px;
     height: 40px;
     position: absolute;
     top: 80px;
+    box-shadow: 5px 5px 5px 5px grey;
 }
 
 .ipt {
@@ -100,11 +102,10 @@ li a {
     /* border: 3px solid black; */
     position: absolute;
     bottom: 1%;
-    left: 90px;
+    left: 50px;
     width: 1100px;
     height: 170px;
     padding: 20px;
-    background-color: white;
 
 }
 
@@ -135,32 +136,34 @@ li a {
 .container1 {
     /* border: 3px solid black; */
     width: 250px;
-    height: 270px;
+    height: 200px;
     text-align: center;
+    background-color: white;
+    padding: 20px 10px 10px 10px;
+    box-shadow: 2px 2px 2px 2px grey;
 }
 
 .container2 {
     /* border: 3px solid black; */
     position: absolute;
     bottom: -40%;
-    left: 90px;
+    left: 50px;
     width: 1100px;
     height: 170px;
     padding: 20px;
-    background-color: white;
-
 }
 .container2 img {
     width: 130px;
     height: 130px;
 }
 
-.headerrr {
+h3 {
+    border-left:5px solid purple ;
+    height: 47px;
     position: absolute;
-    bottom: -60%;
-    left: 90px;
-    border-left:3px solid purple ;
-    
+    bottom: -70%;
+    left: 80px;
+    font-size: 2rem;
 }
 
 .container3 {
@@ -285,6 +288,60 @@ li a {
     top: 29px;
     font-size: 0.5em;
 }
+.containermode {
+    border: 0.1px solid black;
+    height: 60px;
+    padding: 10px;
+    background-color: white;
+}
+
+.containermode img{
+    height: 50px;
+    width: 50px;
+}
+
+.move {
+    position: absolute;
+    left: 6.5%;
+    top: 16%;
+}
+
+.fb2 {
+    position: absolute;
+    left: 6.5%;
+    top: 17.9%;
+}
+
+.con6img {
+    position: absolute;
+    right: 25%;
+}
+
+.zone7 {
+    width: 160px;
+    height: 30px;
+    position: absolute;
+    right: 9.6%;
+    top: 18%;
+    font-size: 0.5em;
+}
+
+.exexe3 {
+    position: absolute;
+    right: 60%;
+    top: 15px;
+}
+.btn6 {
+    color: white;
+    border: 1px solid #03a1fc;
+    width: 90px;
+    height: 45px;
+    background-color: #03a1fc;
+    position: absolute;
+    right: -47%;
+    top: 3%;
+}
+
 
 
 
