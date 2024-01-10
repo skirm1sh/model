@@ -83,7 +83,7 @@ li a {
     height: 40px;
     position: absolute;
     top: 80px;
-    box-shadow: 5px 5px 5px 5px grey;
+    /* box-shadow: 5px 5px 5px 5px grey; */
 }
 
 .ipt {
@@ -110,6 +110,11 @@ li a {
     height: 170px;
     padding: 20px;
 
+}
+
+.container a {
+   text-decoration: none;
+   
 }
 
 .grid-wrapper {
@@ -144,6 +149,10 @@ li a {
     background-color: white;
     padding: 20px 10px 10px 10px;
     box-shadow: 1px 1px 1px 1px grey;
+}
+
+.container1 a {
+    text-decoration: none;
 }
 
 .container2 {
@@ -344,6 +353,81 @@ h3 {
     right: -47%;
     top: 3%;
 }
+.containermode2 {
+    border: 0.1px solid black;
+    position: absolute;
+    top: 24.3%;
+    left: -0.2px;
+    height: 60px;
+    width: 1079px;
+    padding: 10px;
+}
+
+.containermode2 img {
+    height: 50px;
+    width: 50px;
+}
+.move2 {
+    position: absolute;
+    left: 6.5%;
+    top: 0%;
+}
+.fb3 {
+    position: absolute;
+    left: 6.5%;
+    top: 25%;
+}
+.con7img {
+    position: absolute;
+    right: 25%;
+}
+
+.containermode3 {
+    border: 0.1px solid black;
+    position: absolute;
+    top: 100%;
+    left: -0.2px;
+    height: 60px;
+    width: 1079px;
+    padding: 10px;
+}
+.containermode4 {
+    border: 0.1px solid black;
+    position: absolute;
+    top: 100%;
+    left: -0.5px;
+    height: 60px;
+    width: 1079px;
+    padding: 10px;
+}
+.containermode5 {
+    border: 0.1px solid black;
+    position: absolute;
+    top: 100%;
+    left: -0.5px;
+    height: 60px;
+    width: 1079px;
+    padding: 10px;
+}
+.containermode6 {
+    border: 0.1px solid black;
+    position: absolute;
+    top: 100%;
+    left: -0.5px;
+    height: 60px;
+    width: 1079px;
+    padding: 10px;
+}
+.containermode7 {
+    border: 0.1px solid black;
+    position: absolute;
+    top: 100%;
+    left: -0.5px;
+    height: 60px;
+    width: 1079px;
+    padding: 10px;
+}
+
 
 
 
