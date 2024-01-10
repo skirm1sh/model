@@ -1,0 +1,296 @@
+body {
+    background-color: azure;
+    margin: 0;
+}
+.zone {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+span {
+    color: #03a1fc;
+}
+
+.zone2 {
+    width: 300px;
+
+}
+h1 {
+    color: grey;
+    display: flex;
+    justify-content: center;
+}
+.zone3 {
+    width: 600px;
+}
+
+
+.zone4 {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 30px;
+}
+
+.first {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2em;
+    
+}
+
+li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.btn1 {
+    color: #03a1fc;
+    border: 1px solid #03a1fc;
+    width: 90px;
+    background-color: white;
+}
+.btn2 {
+    color: white;
+    border: 1px solid #03a1fc;
+    width: 90px;
+    background-color: #03a1fc;
+}
+
+.bodyzone {
+    width: 600px;
+    height: 80px;
+    position: absolute;
+    left: 95px;
+    bottom: 390px;
+}
+.upup {
+    position: absolute;
+    top: 25px;
+}
+
+.bodyzone2 {
+    border: 0.1px solid black;
+    width: 1100px;
+    height: 40px;
+    position: absolute;
+    top: 80px;
+}
+
+.ipt {
+    height: 35px;
+    width: 400px;
+    background-image: url(https://cdn.icon-icons.com/icons2/2104/PNG/512/magnifying_glass_icon_129391.png);
+    background-repeat: no-repeat;
+    background-size: 35px;
+    
+}
+
+.btn3 {
+    width: 100px;
+    height: 39px;
+}
+
+
+.container {
+    /* border: 3px solid black; */
+    position: absolute;
+    bottom: 1%;
+    left: 90px;
+    width: 1100px;
+    height: 170px;
+    padding: 20px;
+    background-color: white;
+
+}
+
+.grid-wrapper {
+    display: grid;
+    gap: 20px;
+    grid-auto-flow: column;
+}
+
+.container img {
+    width: 130px;
+    height: 130px;
+    /* position: absolute;
+    left: 80px; */
+    
+    
+}
+
+/* .txtx {
+    position: absolute;
+    bottom: 330px;
+    left: 129px;
+    text-decoration: none;
+    color: grey;
+    
+} */
+
+.container1 {
+    /* border: 3px solid black; */
+    width: 250px;
+    height: 270px;
+    text-align: center;
+}
+
+.container2 {
+    /* border: 3px solid black; */
+    position: absolute;
+    bottom: -40%;
+    left: 90px;
+    width: 1100px;
+    height: 170px;
+    padding: 20px;
+    background-color: white;
+
+}
+.container2 img {
+    width: 130px;
+    height: 130px;
+}
+
+.headerrr {
+    position: absolute;
+    bottom: -60%;
+    left: 90px;
+    border-left:3px solid purple ;
+    
+}
+
+.container3 {
+    /* border: 3px solid black; */
+    position: absolute;
+    bottom: -230%;
+    width: 1100px;
+    left: 90px;
+    height: 1000px;
+}
+.container4 {
+    border: 0.1px solid black;
+    height: 60px;
+    background-color: white;
+    padding: 10px;
+}
+
+.container4 img {
+    width: 50px;
+    height: 50px;
+}
+
+.container4 p {
+    position: absolute;
+    top: 5px;
+    left: 70px;
+}
+
+.fb a {
+    position: absolute;
+    top: 20px;
+}
+
+.con4img {
+    position: absolute;
+    right: 25%;
+    top: 5px;
+}
+
+.btn4 {
+     
+        color: white;
+        border: 1px solid #03a1fc;
+        width: 90px;
+        height: 45px;
+        background-color: #03a1fc;
+        position: absolute;
+        left: 980px;
+        bottom: 937px;
+}
+.zone5  { 
+    /* border: 3px solid black; */
+    width: 160px;
+    height: 30px;
+    position: absolute;
+    right: 16%;
+    top: 12px;
+    font-size: 0.5em;
+}
+
+.exexe {
+    position: absolute;
+    right: 18%;
+    top: 29px;
+    font-size: 0.5em;
+}
+
+.container5 {
+    border: 0.1px solid black;
+    height: 60px;
+    padding: 10px;
+    background-color: white;
+}
+
+.container5 img {
+    width: 50px;
+    height: 50px;
+}
+
+.container5 p {
+    position: absolute;
+    top: 83px;
+    left: 70px;
+}
+
+.fb1 a {
+    position: absolute;
+    top: 20px;
+}
+
+.con5img {
+    position: absolute;
+    right: 25%;
+    top: 90px;
+}
+
+.btn5 {
+     
+    color: white;
+    border: 1px solid #03a1fc;
+    width: 90px;
+    height: 45px;
+    background-color: #03a1fc;
+    position: absolute;
+    left: 980px;
+    bottom: 855px;
+}
+
+.zone6  { 
+    /* border: 3px solid black; */
+    width: 160px;
+    height: 30px;
+    position: absolute;
+    right: 16%;
+    top: 15px;
+    font-size: 0.5em;
+}
+
+.exexe2 {
+    position: absolute;
+    right: 29%;
+    top: 29px;
+    font-size: 0.5em;
+}
+
+
+
+
+
+
+
+
+
