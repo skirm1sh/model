@@ -1,0 +1,124 @@
+body {
+    /* background-color: azure; */
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.zone {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+
+span {
+    color: #03a1fc;
+}
+
+.zone2 {
+    width: 300px;
+
+}
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.zone3 {
+    width: 600px;
+}
+
+
+.zone4 {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 30px;
+}
+
+.first {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2em;
+    
+}
+
+li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.btn1 {
+    color: #03a1fc;
+    border: 1px solid #03a1fc;
+    width: 90px;
+    background-color: white;
+}
+.btn2 {
+    color: white;
+    border: 1px solid #03a1fc;
+    width: 90px;
+    background-color: #03a1fc;
+}
+
+.container {
+    border-top: 0.2px solid grey;
+    border-bottom: 0.2px solid grey;
+    height: 200px;
+    background-color: aliceblue;
+}
+
+
+.firstp {
+    padding-left: 105px;
+    padding-top: 30px;
+}
+.ipt {
+    height: 35px;
+    width: 400px;
+    background-image: url(https://cdn.icon-icons.com/icons2/2104/PNG/512/magnifying_glass_icon_129391.png);
+    background-repeat: no-repeat;
+    background-size: 35px;  
+    position: absolute;  
+    left: 8.3%;
+}
+
+.wrapping {
+    box-shadow: 1px 1px 1px 1px grey;
+   height: 180px;
+    width: 180px;
+    text-align: center;
+}
+
+.wrapping img {
+    width: 50px;
+    height: 50px;
+    padding-top: 8%;
+}
+
+.wrapping a {
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+
+.pirvelip {
+    font-size: 1rem;
+}
+
+.secondp {
+    font-size: 0.6rem;
+    color: grey;
+}
+
+.mainpart {
+    display: grid;
+    grid-auto-flow: column;
+    gap: 7px;
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
