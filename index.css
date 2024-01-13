@@ -21,6 +21,11 @@ span {
     width: 300px;
 
 }
+
+.zone2 a {
+    text-decoration: none;
+    color: black;
+}
 h1 {
     color: black;
     display: flex;
@@ -55,15 +60,28 @@ li a {
 .btn1 {
     color: #03a1fc;
     border: 1px solid #03a1fc;
-    width: 90px;
+    width: 100px;
     background-color: white;
 }
 .btn2 {
     color: white;
     border: 1px solid #03a1fc;
-    width: 90px;
+    width: 100px;
     background-color: #03a1fc;
 }
+
+.zone4 #a1 {
+    text-decoration: none;
+    color: #03a1fc;
+}
+
+.zone4 #a2 {
+    text-decoration: none;
+    color: white;
+}
+
+
+
 
 .bodyzone {
     width: 600px;

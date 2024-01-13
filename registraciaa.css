@@ -1,0 +1,120 @@
+body {
+    /* background-color: azure; */
+    margin: 0;
+    padding: 0;
+    display: block;
+}
+
+.zone {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1px grey;
+}
+
+span {
+    color: #03a1fc;
+}
+
+.zone2 {
+    width: 300px;
+
+}
+
+.zone2 a {
+    text-decoration: none;
+    color: black;
+}
+
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.zone3 {
+    width: 600px;
+}
+
+
+.zone4 {
+    width: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 30px;
+}
+
+.zone4 #a1 {
+    text-decoration: none;
+    color: #03a1fc;
+}
+
+.zone4 #a2 {
+    text-decoration: none;
+    color: white;
+}
+
+.first {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.2em;
+    
+}
+
+li a {
+    text-decoration: none;
+    color: grey;
+}
+
+.btn1 {
+    color: #03a1fc;
+    border: 1px solid #03a1fc;
+    width: 100px;
+    background-color: white;
+}
+.btn2 {
+    color: white;
+    border: 1px solid #03a1fc;
+    width: 100px;
+    background-color: #03a1fc;
+}
+
+.container {
+    /* border: 3px solid black; */
+    height: 650px;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 8.2%;
+    text-align: center;
+}
+
+
+
+h2 {
+    padding-top: 20px;
+    font-size: 1.9em;
+}
+
+.iptsize {
+    width: 350px;
+    height: 35px;
+}
+
+label {
+    position: absolute;
+    left: 36%;
+    padding-bottom: 20px;
+}
+
+.btn33 {
+    color: white;
+    border: 1px solid #03a1fc;
+    background-color: #03a1fc;
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    right: 36%;
+}
